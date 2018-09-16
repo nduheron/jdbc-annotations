@@ -13,7 +13,7 @@
 		<repository>
 			<id>ProjectRepo</id>
 			<name>ProjectRepo</name>
-			<url>file:../my-repo/</url>
+			<url>file:./my-repo/</url>
 		</repository>
 	</repositories>
 	
