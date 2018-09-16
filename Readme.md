@@ -2,6 +2,7 @@
 
 Librairie permettant de générer automatiquement les RowMapper lorsque l'on utilise JdbcTemplate.
 
+[![Build Status](https://travis-ci.org/nduheron/jdbc-annotations.svg?branch=master)](https://travis-ci.org/nduheron/jdbc-annotations) 
 
 ## Usage
 
