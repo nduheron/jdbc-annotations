@@ -11,11 +11,12 @@
 
 	<repositories>
 		<repository>
-			<id>jcenter</id>
-			<url>https://jcenter.bintray.com/</url>
+			<id>ProjectRepo</id>
+			<name>ProjectRepo</name>
+			<url>file:../my-repo/</url>
 		</repository>
 	</repositories>
-
+	
 	<dependencies>
 		<dependency>
 			<groupId>${project.groupId}</groupId>
